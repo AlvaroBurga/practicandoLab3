@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/LoveMe"
+        android:title="meAmas"
+        app:actionLayout="@layout/switch_item"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/nose"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="nose"
+        app:showAsAction="ifRoom" />
+</menu>

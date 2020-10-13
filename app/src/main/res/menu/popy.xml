@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/yosi"
+        android:title="Yo si jaja" />
+    <item
+        android:id="@+id/TTI"
+        android:icon="@drawable/ic_action_tti"
+        android:title="Tampoco tengo idea" />
+</menu>

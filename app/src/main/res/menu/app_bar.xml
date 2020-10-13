@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cloud"
+        android:icon="@drawable/ic_action_cloudy"
+        android:title="Cloud"
+        app:showAsAction="never|ifRoom" />
+    <item
+        android:id="@+id/sun"
+        android:icon="@drawable/ic_action_sun"
+        android:title="Sun"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/ice"
+        android:icon="@drawable/ic_action_name"
+        android:title="Nevar"
+        app:showAsAction="ifRoom" />
+</menu>
